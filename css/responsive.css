@@ -136,15 +136,12 @@
         text-align: center;
     }
     .shop-menu ul{
-        display: inline-block;
         float: none;
     }
     .header_top .col-sm-6:first-child {
-        display: inline-block;
         float: left;
     }
     .header_top .col-sm-6:last-child {
-        display: inline-block;
         float: right;
     }
     .header-middle .col-sm-4 {
@@ -248,7 +245,6 @@
     .footer-widget .col-sm-3 {
         display: inline-block;
     }
-    .single-widget {}
     .product-information span {
         display: block;
     }
